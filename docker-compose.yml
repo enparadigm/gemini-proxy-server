@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  proxy:
+    build: .
+    container_name: gemini-proxy-server
+    ports:
+      - "80:80"
+    environment:
+      # Path to the service account key inside the container
+      - GOOGLE_APPLICATION_CREDENTIALS=/var/secrets/google/service-account.json
+      # Project ID used for quota/billing (optional but recommended)
+      - GOOGLE_CLOUD_PROJECT=gemini-rag-demo-486916
+    volumes:
+      # Mount your local service account key into the container (read-only)
+      - ./service-account.json:/var/secrets/google/service-account.json:ro
+    restart: unless-stopped
+
