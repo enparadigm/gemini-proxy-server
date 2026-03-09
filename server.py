@@ -14,7 +14,7 @@ API_WS_URL = (
     f"wss://{REGION}-aiplatform.googleapis.com/"
     "ws/google.cloud.aiplatform.v1beta1.LlmBidiService/BidiGenerateContent"
 )
-PORT = 80
+PORT = 8080
 PROJECT_ID = os.getenv("GOOGLE_CLOUD_PROJECT")
 
 

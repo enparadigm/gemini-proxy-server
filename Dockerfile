@@ -6,8 +6,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY server.py .  # or your proxy file
+COPY server.py .
 
-EXPOSE 80 8000
+EXPOSE 8080 8000
 
 CMD ["python", "server.py"]
