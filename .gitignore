@@ -1,1 +1,5 @@
 .venv/
+
+# Never commit credentials
+service-account.json
+*-key.json

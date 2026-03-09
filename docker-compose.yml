@@ -11,6 +11,8 @@ services:
       - GOOGLE_APPLICATION_CREDENTIALS=/var/secrets/google/service-account.json
       # Project ID used for quota/billing (optional but recommended)
       - GOOGLE_CLOUD_PROJECT=gemini-rag-demo-486916
+      # Region for the Gemini Live API (default is us-central1)
+      - GOOGLE_CLOUD_REGION=europe-west4
     volumes:
       # Mount your local service account key into the container (read-only)
       - ./service-account.json:/var/secrets/google/service-account.json:ro

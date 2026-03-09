@@ -10,6 +10,8 @@ The proxy listens on `ws://localhost:80` by default.
 
 You can also pass a **project ID** into the proxy via the `GOOGLE_CLOUD_PROJECT` environment variable. The proxy will use this as the quota/billing project when obtaining access tokens.
 
+Similarly, you can control the **region** of the Gemini Live API endpoint via `GOOGLE_CLOUD_REGION` (default is `us-central1`). For example, to use an EU endpoint you can set it to `europe-west4`.
+
 ---
 
 ### Running the demo frontend

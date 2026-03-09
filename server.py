@@ -9,8 +9,9 @@ import websockets
 from websockets.exceptions import ConnectionClosed
 from websockets.legacy.server import WebSocketServerProtocol
 
+REGION = os.getenv("GOOGLE_CLOUD_REGION", "us-central1")
 API_WS_URL = (
-    "wss://us-central1-aiplatform.googleapis.com/"
+    f"wss://{REGION}-aiplatform.googleapis.com/"
     "ws/google.cloud.aiplatform.v1beta1.LlmBidiService/BidiGenerateContent"
 )
 PORT = 80
