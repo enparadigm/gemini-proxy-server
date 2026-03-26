@@ -4,3 +4,4 @@ google-auth
 google-auth-httplib2
 certifi
 requests
+loguru

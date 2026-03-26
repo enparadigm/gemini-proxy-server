@@ -4,3 +4,4 @@
 service-account.json
 *-key.json
 recordings/
+__pycache__/
