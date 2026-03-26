@@ -12,6 +12,11 @@ You can also pass a **project ID** into the proxy via the `GOOGLE_CLOUD_PROJECT`
 
 Similarly, you can control the **region** of the Gemini Live API endpoint via `GOOGLE_CLOUD_REGION` (default is `us-central1`). For example, to use an EU endpoint you can set it to `europe-west4`.
 
+Run the proxy:
+```bash
+python3 server.py
+```
+
 ---
 
 ### Running the demo frontend
@@ -22,7 +27,7 @@ After the proxy is running, set up and run the demo frontend:
 
    ```bash
    git clone https://github.com/GoogleCloudPlatform/generative-ai.git
-   cd generative-ai/gemini/multimodal-live-api/native-audio-websocket-demo-apps/plain-js-python-sdk-demo-app
+   cd generative-ai/gemini/multimodal-live-api/native-audio-websocket-demo-apps/plain-js-demo-app/frontend
    ```
 
 2. **Run the Python HTTP server to host the frontend app on port 8001**
@@ -37,7 +42,7 @@ After the proxy is running, set up and run the demo frontend:
 4. **Configure the project and proxy**
    - When prompted in the UI, provide the **project ID** (for example `gemini-rag-demo-486916`) — this is used by the sample frontend.
    - Ensure the frontend is configured to use the proxy WebSocket URL:
-     - `ws://localhost:80`
+     - `ws://localhost:8080`
 
 With this setup:
 - The browser connects from `http://localhost:8001` → `ws://localhost:80` (the proxy).
