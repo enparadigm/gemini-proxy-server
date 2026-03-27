@@ -17,6 +17,11 @@ Run the proxy:
 python3 server.py
 ```
 
+When a WebSocket session finishes, the proxy stores that session under `recordings/` in a folder named with a timestamp and short id (for example `recordings/1774520142-a105f818/`). That folder includes:
+
+- **`conversation.wav`** — the mixed conversation audio
+- **`cost_report.json`** — usage and estimated cost for the session (written when the session ends)
+
 ---
 
 ### Running the demo frontend

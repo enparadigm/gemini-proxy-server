@@ -3,5 +3,5 @@
 # Never commit credentials
 service-account.json
 *-key.json
-recordings/
+# recordings/
 __pycache__/

@@ -1,0 +1,13 @@
+{
+  "session_id": "1774520142-a105f818",
+  "total_input_audio": 129861,
+  "total_input_text": 24037,
+  "total_output_audio": 3708,
+  "total_output_text": 1642,
+  "input_audio_cost": 0.389583,
+  "input_text_cost": 0.0120185,
+  "output_audio_cost": 0.044496,
+  "output_text_cost": 0.003284,
+  "total_cost_usd": 0.4493815,
+  "total_cost_inr": 42.241861
+}

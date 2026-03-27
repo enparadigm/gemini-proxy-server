@@ -1,0 +1,1424 @@
+{"ts": 1774552722.275771, "direction": "client→api", "type": "text", "byte_len": 1808, "pcm_b64_chunks": 0}
+{"ts": 1774552722.686, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552722.729574, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552722.735753, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552722.990798, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552722.999419, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552723.2549481, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552723.2609391, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552723.502857, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552723.510296, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552723.7592, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552723.765795, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552724.008887, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552724.015585, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552724.270268, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552724.277686, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552724.5323079, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552724.53824, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552724.780992, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552724.7849221, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552725.039767, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552725.046622, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552725.28738, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552725.2897081, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552725.55014, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552725.554898, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552725.670141, "direction": "api→client", "type": "text", "byte_len": 118, "pcm_b64_chunks": 0}
+{"ts": 1774552725.814124, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552725.820679, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552726.060689, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552726.066937, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552726.153864, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552726.299296, "direction": "api→client", "type": "text", "byte_len": 15040, "pcm_b64_chunks": 1}
+{"ts": 1774552726.317697, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552726.324778, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552726.568162, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552726.5743942, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552726.614999, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552726.829089, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552726.834395, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552726.905337, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552726.9110641, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552726.987626, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552727.0907352, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552727.09763, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552727.1346638, "direction": "api→client", "type": "text", "byte_len": 94, "pcm_b64_chunks": 0}
+{"ts": 1774552727.245698, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552727.2994099, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552727.300371, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552727.341738, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552727.345352, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552727.350252, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552727.4020648, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552727.4303, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552727.479373, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552727.480181, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552727.51675, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552727.5548851, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552727.5759208, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552727.577507, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552727.57774, "direction": "api→client", "type": "text", "byte_len": 2780, "pcm_b64_chunks": 1}
+{"ts": 1774552727.577964, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552727.578528, "direction": "api→client", "type": "text", "byte_len": 552, "pcm_b64_chunks": 0}
+{"ts": 1774552727.597177, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552727.600322, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552727.84789, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552727.854557, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552728.108363, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552728.110193, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552728.371593, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552728.378596, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552728.6222348, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552728.627852, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552728.8773818, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552728.880901, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552729.128073, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552729.135544, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552729.390552, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552729.398318, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552729.651965, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552729.659327, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552729.902484, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552729.909864, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552730.157388, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552730.1595771, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552730.4098182, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552730.418096, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552730.670707, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552730.678294, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552730.932487, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552730.9392672, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552731.1824472, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552731.1881962, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552731.4381812, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552731.444952, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552731.689261, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552731.695895, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552731.9506052, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552731.9576, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552732.2113988, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552732.21558, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552732.4624372, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552732.469853, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552732.7181802, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552732.7256262, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552732.966749, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552732.9686131, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552733.228417, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552733.2354891, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552733.491401, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552733.4981818, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552733.741225, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552733.7461278, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552733.998069, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552734.0036988, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552734.2494998, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552734.257674, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552734.510391, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552734.5173278, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552734.77223, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552734.779335, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552735.021628, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552735.0243149, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552735.278118, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552735.285274, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552735.5290298, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552735.536767, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552735.5727491, "direction": "api→client", "type": "text", "byte_len": 151, "pcm_b64_chunks": 0}
+{"ts": 1774552735.790496, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552735.797406, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552735.990387, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552736.050255, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552736.057156, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552736.100422, "direction": "api→client", "type": "text", "byte_len": 15040, "pcm_b64_chunks": 1}
+{"ts": 1774552736.123345, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552736.210796, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552736.2638001, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552736.284796, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.3010392, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552736.304904, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552736.345354, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.346721, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552736.538489, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552736.557656, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552736.564158, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552736.6149602, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552736.6171122, "direction": "api→client", "type": "text", "byte_len": 93, "pcm_b64_chunks": 0}
+{"ts": 1774552736.724148, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.744246, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552736.748938, "direction": "api→client", "type": "text", "byte_len": 95, "pcm_b64_chunks": 0}
+{"ts": 1774552736.760056, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.771819, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.780576, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.798881, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.80767, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552736.815294, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552736.815871, "direction": "api→client", "type": "text", "byte_len": 96, "pcm_b64_chunks": 0}
+{"ts": 1774552736.826549, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.85894, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.9225652, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552736.925859, "direction": "api→client", "type": "text", "byte_len": 95, "pcm_b64_chunks": 0}
+{"ts": 1774552736.939761, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552736.996874, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552737.070563, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552737.073859, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552737.093129, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.153964, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.1600242, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552737.171354, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552737.202431, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.262689, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552737.276737, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552737.2978292, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.3320692, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552737.338683, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552737.340428, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552737.370341, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.436343, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.445219, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.446933, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552737.493286, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.540999, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.5823832, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552737.589375, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552737.5986822, "direction": "api→client", "type": "text", "byte_len": 94, "pcm_b64_chunks": 0}
+{"ts": 1774552737.655614, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552737.6749241, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.6955678, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.786178, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.789258, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552737.818292, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552737.837213, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552737.84296, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552737.843764, "direction": "api→client", "type": "text", "byte_len": 94, "pcm_b64_chunks": 0}
+{"ts": 1774552737.858656, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.8984299, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552737.9829388, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.028803, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552738.030197, "direction": "api→client", "type": "text", "byte_len": 94, "pcm_b64_chunks": 0}
+{"ts": 1774552738.052415, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.087616, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552738.09519, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552738.174745, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.184264, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.185652, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552738.221421, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552738.349014, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.3515892, "direction": "api→client", "type": "text", "byte_len": 92, "pcm_b64_chunks": 0}
+{"ts": 1774552738.352885, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552738.3590558, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552738.359879, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.40347, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552738.406816, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552738.428708, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.459429, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.61203, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552738.618038, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552738.7320771, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552738.733202, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552738.8623302, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552738.870007, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552738.885002, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.908764, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.94414, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552738.948531, "direction": "api→client", "type": "text", "byte_len": 92, "pcm_b64_chunks": 0}
+{"ts": 1774552738.950643, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.974883, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552738.9879758, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552738.989974, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552739.030849, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552739.0430222, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552739.0446122, "direction": "api→client", "type": "text", "byte_len": 96, "pcm_b64_chunks": 0}
+{"ts": 1774552739.100728, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552739.115097, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552739.118207, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552739.118704, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552739.124815, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552739.12591, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552739.163956, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552739.193538, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552739.224465, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552739.246102, "direction": "api→client", "type": "text", "byte_len": 2780, "pcm_b64_chunks": 1}
+{"ts": 1774552739.2464771, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552739.2472582, "direction": "api→client", "type": "text", "byte_len": 556, "pcm_b64_chunks": 0}
+{"ts": 1774552739.368311, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552739.3751721, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552739.630017, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552739.636191, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552739.891213, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552739.897865, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552740.1419961, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552740.149569, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552740.3972049, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552740.399486, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552740.6490781, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552740.65649, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552740.911545, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552740.918719, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552741.171075, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552741.176373, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552741.421737, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552741.4293299, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552741.6783261, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552741.685589, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552741.929219, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552741.935503, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552742.190666, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552742.197403, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552742.451489, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552742.4579148, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552742.701718, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552742.708413, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552742.958357, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552742.964472, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552743.209159, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552743.217816, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552743.471581, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552743.476944, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552743.730998, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552743.73742, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552743.9827461, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552743.991441, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552744.238472, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552744.245706, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552744.4887402, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552744.492196, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552744.7510011, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552744.759267, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552745.012279, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552745.0194612, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552745.261991, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552745.270815, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552745.518389, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552745.525741, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552745.7693582, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552745.775975, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552746.028679, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552746.0351338, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552746.292398, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552746.2998111, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552746.542699, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552746.550926, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552746.7985148, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552746.809411, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552747.0474, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552747.0525959, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552747.3108459, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552747.316993, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552747.571854, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552747.579672, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552747.8204439, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552747.824028, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552748.077234, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552748.084225, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552748.328821, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552748.334765, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552748.590477, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552748.594086, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552748.852064, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552748.858527, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552749.10255, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552749.110202, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552749.3577669, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552749.364377, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552749.6089149, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552749.616385, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552749.8710191, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552749.878283, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552750.132082, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552750.1392078, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552750.380539, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552750.3868291, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552750.636827, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552750.6438248, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552750.8891242, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552750.896779, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552751.1500669, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552751.1552799, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552751.410968, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552751.417689, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552751.6618502, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552751.6684911, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552751.9179, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552751.9214458, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552752.169208, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552752.175765, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552752.433342, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552752.4399402, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552752.691478, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552752.6987379, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552752.942507, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552752.950113, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552753.1984189, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552753.2059252, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552753.4490209, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552753.4549298, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552753.7107148, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552753.716657, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552753.971614, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552753.9787352, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552754.221885, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552754.228603, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552754.4778602, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552754.4858408, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552754.729173, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552754.7352588, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552754.9921741, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552754.999079, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552755.097419, "direction": "api→client", "type": "text", "byte_len": 152, "pcm_b64_chunks": 0}
+{"ts": 1774552755.2515042, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552755.256175, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552755.5021188, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552755.5084631, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552755.697572, "direction": "api→client", "type": "text", "byte_len": 93, "pcm_b64_chunks": 0}
+{"ts": 1774552755.6981719, "direction": "api→client", "type": "text", "byte_len": 15040, "pcm_b64_chunks": 1}
+{"ts": 1774552755.702784, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552755.758126, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552755.765727, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552755.868108, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552755.872107, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552755.910517, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.007741, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552756.012437, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552756.079539, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552756.081089, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552756.106689, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.1457658, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.18182, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.195904, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552756.2122471, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.214669, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552756.270907, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552756.276928, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552756.285176, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552756.2865531, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552756.3383412, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552756.3505049, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.35244, "direction": "api→client", "type": "text", "byte_len": 93, "pcm_b64_chunks": 0}
+{"ts": 1774552756.383629, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.416793, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.4580102, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552756.460133, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552756.478212, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.497975, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.5014021, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552756.512352, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.5304902, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552756.537164, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552756.5378509, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.5388842, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552756.605196, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552756.610613, "direction": "api→client", "type": "text", "byte_len": 95, "pcm_b64_chunks": 0}
+{"ts": 1774552756.648354, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.727874, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552756.747051, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.777857, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552756.784754, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552756.791269, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552756.824963, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.845758, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552756.923834, "direction": "api→client", "type": "text", "byte_len": 18140, "pcm_b64_chunks": 1}
+{"ts": 1774552756.945631, "direction": "api→client", "type": "text", "byte_len": 92, "pcm_b64_chunks": 0}
+{"ts": 1774552756.967255, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.036032, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.03741, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552757.0412328, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552757.103746, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.123729, "direction": "api→client", "type": "text", "byte_len": 97, "pcm_b64_chunks": 0}
+{"ts": 1774552757.144396, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.171351, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.220999, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.251553, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.2777228, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552757.288805, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552757.295414, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552757.3107579, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.337821, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552757.357019, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.430721, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552757.433439, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552757.4685571, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.471429, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552757.533739, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552757.550167, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552757.556034, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552757.584608, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552757.649947, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552757.651953, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552757.658174, "direction": "api→client", "type": "text", "byte_len": 2780, "pcm_b64_chunks": 1}
+{"ts": 1774552757.658365, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552757.659302, "direction": "api→client", "type": "text", "byte_len": 557, "pcm_b64_chunks": 0}
+{"ts": 1774552757.811596, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552757.8187, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552758.06103, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552758.067481, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552758.318722, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552758.325963, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552758.5685802, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552758.573069, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552758.82908, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552758.831538, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552759.0918772, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552759.1001348, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552759.342069, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552759.345786, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552759.597065, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552759.604457, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552759.849659, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552759.856082, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552760.11136, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552760.11764, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552760.371385, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552760.378238, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552760.622574, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552760.6291041, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552760.8781068, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552760.885047, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552761.1299121, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552761.13714, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552761.391362, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552761.397758, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552761.651684, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552761.658509, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552761.902575, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552761.910227, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552762.1585112, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552762.165112, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552762.409363, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552762.415164, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552762.670049, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552762.6740422, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552762.931947, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552762.938672, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552763.1826649, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552763.189636, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552763.43797, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552763.441279, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552763.689316, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552763.695271, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552763.950834, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552763.956376, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552764.211766, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552764.2187788, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552764.462067, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552764.466447, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552764.718564, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552764.7252421, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552764.968933, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552764.97515, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552765.23193, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552765.238164, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552765.4913611, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552765.498395, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552765.7424588, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552765.749391, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552765.998372, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552766.007332, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552766.249125, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552766.2541282, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552766.511661, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552766.5179331, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552766.771469, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552766.7753458, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552767.023044, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552767.0298738, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552767.27857, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552767.2861812, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552767.529342, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552767.535417, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552767.7909918, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552767.797774, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552768.051042, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552768.0580668, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552768.3025181, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552768.309393, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552768.558881, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552768.5660338, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552768.8118, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552768.817125, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552769.070612, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552769.080006, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552769.080417, "direction": "api→client", "type": "text", "byte_len": 131, "pcm_b64_chunks": 0}
+{"ts": 1774552769.331598, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552769.338067, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552769.492933, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552769.5578082, "direction": "api→client", "type": "text", "byte_len": 15040, "pcm_b64_chunks": 1}
+{"ts": 1774552769.580984, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552769.586946, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552769.698266, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552769.740155, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552769.838505, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552769.8441641, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552769.926058, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552769.928301, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552769.934068, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552769.9355142, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552769.945371, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552769.947045, "direction": "api→client", "type": "text", "byte_len": 92, "pcm_b64_chunks": 0}
+{"ts": 1774552769.955263, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552769.972685, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552769.9964721, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552770.012649, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552770.035773, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552770.042901, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552770.088844, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552770.093596, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552770.101266, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552770.229868, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552770.267393, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552770.2761831, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552770.276435, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552770.276742, "direction": "api→client", "type": "text", "byte_len": 557, "pcm_b64_chunks": 0}
+{"ts": 1774552770.349289, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552770.352423, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552770.6121962, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552770.6192498, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552770.862158, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552770.8655858, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552771.1181571, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552771.124873, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552771.368472, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552771.370937, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552771.630532, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552771.637831, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552771.891786, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552771.89829, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552772.142588, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552772.1489542, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552772.39848, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552772.4049358, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552772.649483, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552772.6562638, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552772.9109251, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552772.917058, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552773.171983, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552773.177203, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552773.421955, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552773.427437, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552773.677841, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552773.684599, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552773.92936, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552773.936198, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552774.190078, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552774.1948018, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552774.451505, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552774.4580622, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552774.702765, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552774.7105448, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552774.9567628, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552774.959317, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552775.209086, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552775.215057, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552775.469864, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552775.4765031, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552775.73198, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552775.738762, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552775.98225, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552775.9885042, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552776.238494, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552776.244852, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552776.489541, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552776.500606, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552776.750401, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552776.75758, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552777.011772, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552777.018199, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552777.2624981, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552777.2696488, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552777.517796, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552777.5231712, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552777.76928, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552777.7765481, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552778.02897, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552778.035171, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552778.2914171, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552778.294979, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552778.54267, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552778.549828, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552778.798354, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552778.807073, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552779.0495842, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552779.0574698, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552779.310719, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552779.317996, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552779.571625, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552779.578015, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552779.821634, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552779.82753, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552779.842308, "direction": "api→client", "type": "text", "byte_len": 191, "pcm_b64_chunks": 0}
+{"ts": 1774552780.078408, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552780.084548, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552780.172977, "direction": "api→client", "type": "text", "byte_len": 92, "pcm_b64_chunks": 0}
+{"ts": 1774552780.2023292, "direction": "api→client", "type": "text", "byte_len": 15040, "pcm_b64_chunks": 1}
+{"ts": 1774552780.2699032, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552780.329334, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552780.336172, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552780.424052, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552780.443027, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552780.443994, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552780.528696, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552780.5421708, "direction": "api→client", "type": "text", "byte_len": 84, "pcm_b64_chunks": 0}
+{"ts": 1774552780.589587, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552780.592603, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552780.759868, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552780.7608519, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552780.768542, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552780.7851279, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552780.785989, "direction": "api→client", "type": "text", "byte_len": 98, "pcm_b64_chunks": 0}
+{"ts": 1774552780.851032, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552780.857507, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552780.953847, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552780.983649, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.047242, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.0592031, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.070699, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.072289, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552781.082317, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.100838, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552781.1075552, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552781.115563, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.134312, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.135864, "direction": "api→client", "type": "text", "byte_len": 96, "pcm_b64_chunks": 0}
+{"ts": 1774552781.23896, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.255666, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.358743, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552781.365385, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552781.4140868, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.480008, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.482602, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552781.529839, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.532223, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552781.541568, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.5776708, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.5785758, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552781.608437, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552781.612276, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552781.62572, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.758337, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.760465, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552781.771986, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.773643, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552781.783844, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.785354, "direction": "api→client", "type": "text", "byte_len": 97, "pcm_b64_chunks": 0}
+{"ts": 1774552781.798811, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.832907, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.848952, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552781.869357, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552781.876576, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552781.947674, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.948204, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552781.971684, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552781.9844632, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552782.005895, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.0081449, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552782.0392141, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.051682, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.093368, "direction": "api→client", "type": "text", "byte_len": 84, "pcm_b64_chunks": 0}
+{"ts": 1774552782.120843, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.122398, "direction": "api→client", "type": "text", "byte_len": 97, "pcm_b64_chunks": 0}
+{"ts": 1774552782.130516, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.131883, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552782.1364338, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552782.161437, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.282749, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.338814, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552782.341853, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552782.347847, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.38165, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552782.386049, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552782.47383, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.475544, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552782.482128, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.500685, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.522909, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.63831, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552782.6467268, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552782.655452, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552782.683281, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.697011, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552782.8221152, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552782.837715, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552782.8397691, "direction": "api→client", "type": "text", "byte_len": 84, "pcm_b64_chunks": 0}
+{"ts": 1774552782.8606012, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552782.862304, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552782.875047, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552782.888133, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552782.8936992, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552782.900005, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.0104032, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552783.0125282, "direction": "api→client", "type": "text", "byte_len": 101, "pcm_b64_chunks": 0}
+{"ts": 1774552783.029911, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552783.063257, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.136527, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552783.149847, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552783.155188, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552783.172077, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.1732311, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552783.3417752, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552783.391615, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.4109251, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552783.415159, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552783.415572, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.416482, "direction": "api→client", "type": "text", "byte_len": 93, "pcm_b64_chunks": 0}
+{"ts": 1774552783.521559, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.655783, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.661273, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552783.6674151, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552783.688443, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.7302022, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552783.732268, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552783.732552, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552783.734483, "direction": "api→client", "type": "text", "byte_len": 560, "pcm_b64_chunks": 0}
+{"ts": 1774552783.9187741, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552783.925728, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552784.168742, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552784.175879, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552784.433048, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552784.438853, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552784.691676, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552784.698463, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552784.941976, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552784.945847, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552785.1981282, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552785.205222, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552785.449535, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552785.455481, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552785.710177, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552785.713726, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552785.9714282, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552785.9773922, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552786.222367, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552786.229624, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552786.478616, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552786.484787, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552786.729642, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552786.7363782, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552786.990558, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552786.997859, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552787.252112, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552787.258338, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552787.502507, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552787.50945, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552787.758581, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552787.765294, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552788.009469, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552788.015093, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552788.2708921, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552788.278165, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552788.531967, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552788.538076, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552788.782809, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552788.7892952, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552789.038465, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552789.042984, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552789.289164, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552789.29648, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552789.550824, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552789.558312, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552789.8097322, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552789.811529, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552790.061355, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552790.068108, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552790.318634, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552790.3255649, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552790.567652, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552790.569633, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552790.829983, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552790.836121, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552791.0949278, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552791.101241, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552791.3432372, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552791.349684, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552791.598654, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552791.6055958, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552791.8500538, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552791.8565052, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552792.110657, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552792.1173792, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552792.372295, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552792.378942, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552792.623106, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552792.6288, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552792.8765042, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552792.878332, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552793.127879, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552793.134084, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552793.3972108, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552793.402782, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552793.651764, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552793.658494, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552793.9012852, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552793.904149, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552794.157973, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552794.163445, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552794.4095411, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552794.415497, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552794.6706681, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552794.67814, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552794.931114, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552794.936661, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552795.183051, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552795.1889658, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552795.438678, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552795.4456608, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552795.69001, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552795.698665, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552795.9503622, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552795.957162, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552796.212068, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552796.220563, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552796.463027, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552796.4687638, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552796.719336, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552796.726806, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552796.970033, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552796.976394, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552797.230347, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552797.234179, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552797.492188, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552797.499006, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552797.742015, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552797.749217, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552797.9985018, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552798.0058198, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552798.249921, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552798.2565079, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552798.510677, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552798.518234, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552798.772162, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552798.779018, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552799.0224729, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552799.028945, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552799.2785642, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552799.285548, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552799.529804, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552799.536674, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552799.790113, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552799.7965581, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552800.051894, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552800.058911, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552800.303152, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552800.3090072, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552800.558215, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552800.56231, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552800.811702, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552800.817822, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552801.068987, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552801.0749881, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552801.33162, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552801.3350751, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552801.582771, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552801.5881028, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552801.837888, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552801.844555, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552802.090105, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552802.0966852, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552802.3509178, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552802.358119, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552802.612043, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552802.618376, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552802.862279, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552802.8676429, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552803.117524, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552803.125077, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552803.369066, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552803.374431, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552803.62961, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552803.6366742, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552803.8919091, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552803.898444, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552804.142873, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552804.1492631, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552804.398601, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552804.405479, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552804.6491032, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552804.653003, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552804.653524, "direction": "api→client", "type": "text", "byte_len": 240, "pcm_b64_chunks": 0}
+{"ts": 1774552804.9103968, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552804.917299, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552805.037166, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552805.0763268, "direction": "api→client", "type": "text", "byte_len": 15040, "pcm_b64_chunks": 1}
+{"ts": 1774552805.169815, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552805.172898, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552805.17929, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552805.344852, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552805.347996, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552805.4233248, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552805.4301472, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552805.4309828, "direction": "api→client", "type": "text", "byte_len": 20700, "pcm_b64_chunks": 1}
+{"ts": 1774552805.442163, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552805.44291, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552805.5005271, "direction": "api→client", "type": "text", "byte_len": 18140, "pcm_b64_chunks": 1}
+{"ts": 1774552805.522464, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552805.5712152, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552805.62574, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552805.627902, "direction": "api→client", "type": "text", "byte_len": 93, "pcm_b64_chunks": 0}
+{"ts": 1774552805.678462, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552805.685513, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552805.7249641, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552805.764643, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552805.883392, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552805.889029, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552805.9306052, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552805.936197, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552805.936919, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.0228322, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.0363, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.146962, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.1494389, "direction": "api→client", "type": "text", "byte_len": 92, "pcm_b64_chunks": 0}
+{"ts": 1774552806.190355, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552806.196667, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552806.2982469, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552806.370869, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.37282, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552806.414916, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552806.417824, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552806.442973, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.4514902, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552806.457128, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552806.457789, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.4864378, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.488123, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552806.499862, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.5345862, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.5806131, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552806.5843232, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552806.592192, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.659489, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552806.66288, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552806.670953, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.7028239, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552806.70944, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552806.712586, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552806.770679, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.8118489, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.819444, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.820575, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552806.832139, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.8776808, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.880013, "direction": "api→client", "type": "text", "byte_len": 93, "pcm_b64_chunks": 0}
+{"ts": 1774552806.889982, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.9033978, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552806.934379, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.936186, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552806.958109, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552806.964331, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552806.987526, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552806.9894311, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552807.0035892, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.0722072, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.0832489, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.0843031, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552807.117816, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.1785002, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.209981, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552807.215327, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552807.2438478, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.2450292, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552807.257921, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.3336132, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.3415449, "direction": "api→client", "type": "text", "byte_len": 88, "pcm_b64_chunks": 0}
+{"ts": 1774552807.351336, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.386622, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552807.405691, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.450712, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.470185, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552807.4769468, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552807.5256472, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552807.527893, "direction": "api→client", "type": "text", "byte_len": 86, "pcm_b64_chunks": 0}
+{"ts": 1774552807.557065, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.656961, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552807.6801941, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.689607, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.711278, "direction": "api→client", "type": "text", "byte_len": 90, "pcm_b64_chunks": 0}
+{"ts": 1774552807.731133, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552807.737776, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552807.73858, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552807.777189, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.8946528, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552807.896404, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552807.903905, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.904903, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552807.91988, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552807.982838, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552807.9870348, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552808.02477, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.0263119, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552808.037399, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.075286, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.081444, "direction": "api→client", "type": "text", "byte_len": 94, "pcm_b64_chunks": 0}
+{"ts": 1774552808.164959, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.173861, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.238615, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552808.245953, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552808.247107, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.24862, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552808.2687428, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.338424, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.367456, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.3701582, "direction": "api→client", "type": "text", "byte_len": 91, "pcm_b64_chunks": 0}
+{"ts": 1774552808.4305851, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.463221, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.490589, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552808.496473, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552808.523917, "direction": "api→client", "type": "text", "byte_len": 15580, "pcm_b64_chunks": 1}
+{"ts": 1774552808.532856, "direction": "api→client", "type": "text", "byte_len": 89, "pcm_b64_chunks": 0}
+{"ts": 1774552808.571867, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.6156769, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.618141, "direction": "api→client", "type": "text", "byte_len": 85, "pcm_b64_chunks": 0}
+{"ts": 1774552808.665018, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.730617, "direction": "api→client", "type": "text", "byte_len": 13020, "pcm_b64_chunks": 1}
+{"ts": 1774552808.732277, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552808.734176, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552808.7454138, "direction": "api→client", "type": "text", "byte_len": 560, "pcm_b64_chunks": 0}
+{"ts": 1774552808.750496, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552808.753628, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552809.013242, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552809.018977, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552809.26142, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552809.269311, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552809.51895, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552809.525357, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552809.769377, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552809.773001, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552810.030334, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552810.038025, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552810.292327, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552810.301138, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552810.542964, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552810.5500998, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552810.800062, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552810.809497, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552811.0497658, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552811.0586848, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552811.310213, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552811.316797, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552811.57181, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552811.578978, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552811.8215191, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552811.828532, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552812.07856, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552812.082399, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552812.3304162, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552812.337047, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552812.590708, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552812.5976498, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552812.852674, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552812.858384, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552813.102049, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552813.108557, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552813.35916, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552813.3654249, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552813.6106482, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552813.615479, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552813.870522, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552813.8782961, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552814.133333, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552814.140417, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552814.3828459, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552814.389525, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552814.6393962, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552814.646042, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552814.8890939, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552814.895743, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552815.150909, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552815.157731, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552815.41232, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552815.419607, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552815.662258, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552815.66887, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552815.918956, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552815.925601, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552816.1685681, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552816.170866, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552816.430882, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552816.438118, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552816.6937358, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552816.699678, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552816.943021, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552816.949638, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552817.199399, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552817.206869, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552817.450021, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552817.455942, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552817.7109408, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552817.7174459, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552817.972987, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552817.979285, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552818.222566, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552818.229059, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552818.479153, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552818.485985, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552818.7294521, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552818.735778, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552818.9901388, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552818.993549, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552819.252567, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552819.259666, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552819.5024111, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552819.50774, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552819.7600052, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552819.766834, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552820.01047, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552820.016447, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552820.2701068, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552820.2734962, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552820.53421, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552820.539617, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552820.782457, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552820.787638, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552821.038197, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552821.043669, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552821.290208, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552821.297199, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552821.550396, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552821.5562298, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552821.8139021, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552821.819214, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552822.0629172, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552822.069694, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552822.319225, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552822.325134, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552822.569343, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552822.576878, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552822.829896, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552822.835648, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552823.0932212, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552823.099463, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552823.3428302, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552823.350317, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552823.598779, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552823.602957, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552823.850522, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552823.8571131, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552824.110847, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552824.1163678, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552824.372084, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552824.375933, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552824.623702, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552824.6337762, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552824.880231, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552824.887312, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552825.1323771, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552825.13837, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552825.390698, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552825.397233, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552825.651028, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552825.6561642, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552825.902688, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552825.909773, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552826.1593778, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552826.16625, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552826.409884, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552826.417204, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552826.670892, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552826.677286, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552826.932663, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552826.938889, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552827.1827252, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552827.189339, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552827.439209, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552827.4455569, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552827.688904, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552827.692318, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552827.950828, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552827.9572968, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552828.21264, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552828.2194781, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552828.462495, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552828.468907, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552828.7194722, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552828.725188, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552828.96981, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552828.980953, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552829.231081, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552829.23784, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552829.492223, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552829.4980748, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552829.742958, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552829.750273, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552829.999572, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552830.005721, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552830.24979, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552830.257204, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552830.510727, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552830.5148659, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552830.772011, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552830.7779572, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552831.02088, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552831.024719, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552831.279569, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552831.28586, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552831.52972, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552831.537195, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552831.7893188, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552831.792542, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552832.052675, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552832.059381, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552832.302936, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552832.309956, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552832.559724, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552832.5654988, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552832.810391, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552832.8167748, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552833.0691872, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552833.0756302, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552833.333484, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552833.339231, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552833.5829718, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552833.589895, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552833.8373911, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552833.8443441, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552834.089118, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552834.0964742, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552834.350486, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552834.3564742, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552834.6125388, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552834.61867, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552834.862439, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552834.8698828, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552835.117352, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552835.119797, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552835.368781, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552835.374493, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552835.6311119, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552835.6374578, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552835.892054, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552835.8994088, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552836.142227, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552836.1490638, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552836.399292, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552836.405499, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552836.6503282, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552836.657059, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552836.910924, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552836.917581, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552837.17083, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552837.177599, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552837.421228, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552837.427328, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552838.6612768, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552838.6668942, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552838.9227872, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552838.9274082, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552839.1830661, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552839.1874619, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552839.429945, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552839.435798, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552839.689916, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552839.696952, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552839.940489, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552839.948632, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552840.201948, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552840.209481, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552840.465374, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552840.472373, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552840.707844, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552840.716515, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552840.969086, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552840.9762151, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552841.220327, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552841.226722, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552841.481515, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552841.488511, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552841.742283, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552841.747937, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552841.9891121, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552841.9964511, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552842.090965, "direction": "api→client", "type": "text", "byte_len": 124, "pcm_b64_chunks": 0}
+{"ts": 1774552842.25015, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552842.258294, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552842.280426, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552842.2817202, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552842.2831528, "direction": "api→client", "type": "text", "byte_len": 532, "pcm_b64_chunks": 0}
+{"ts": 1774552842.499586, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552842.5032792, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552842.7622988, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552842.7688372, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552843.022645, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552843.0295072, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552843.2691789, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552843.275245, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552843.530165, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552843.53791, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552843.780492, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552843.787904, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552844.041041, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552844.045886, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552844.302957, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552844.309713, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552844.548844, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552844.555138, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552844.8110988, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552844.8174741, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552845.059165, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552845.0651531, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552845.322392, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552845.3290691, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552845.5828679, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552845.590981, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552845.82647, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552845.828798, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552846.088615, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552846.090496, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552846.340597, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552846.3469179, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552846.602227, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552846.607611, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552846.8630688, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552846.870694, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552847.107101, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552847.11358, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552847.3694808, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552847.375689, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552847.620822, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552847.628818, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552847.882472, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552847.887481, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552848.143144, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552848.150985, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552848.388733, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552848.394203, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552848.650028, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552848.657074, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552848.899961, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552848.905123, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552849.0806751, "direction": "api→client", "type": "text", "byte_len": 126, "pcm_b64_chunks": 0}
+{"ts": 1774552849.161344, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552849.166734, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552849.3892632, "direction": "api→client", "type": "text", "byte_len": 87, "pcm_b64_chunks": 0}
+{"ts": 1774552849.390414, "direction": "api→client", "type": "text", "byte_len": 60, "pcm_b64_chunks": 0}
+{"ts": 1774552849.3915489, "direction": "api→client", "type": "text", "byte_len": 532, "pcm_b64_chunks": 0}
+{"ts": 1774552849.421658, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552849.424769, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552849.6689432, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552849.6749508, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552849.929444, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552849.932873, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552850.180311, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552850.186442, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552850.440713, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552850.443219, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552850.702997, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552850.7097769, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552850.948452, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552850.955461, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552851.2096078, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552851.217396, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552851.4603882, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552851.467128, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552851.722306, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552851.729223, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552851.982917, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552851.989873, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552852.226809, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552852.232928, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552852.488398, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552852.4951801, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552852.740801, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552852.7468219, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552852.999532, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552853.001205, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
+{"ts": 1774552853.260894, "direction": "client→api", "type": "text", "byte_len": 10997, "pcm_b64_chunks": 1}
+{"ts": 1774552853.2626822, "direction": "client→api", "type": "text", "note": "resampled_pcm", "src_rate": 16000, "dst_rate": 24000, "src_len": 8192, "dst_len": 12288}
